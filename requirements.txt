@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 jsonschema==2.6.0
 MarkupSafe==1.1.0
-mysql-connector-python==8.0.13
+mysql-connector-python==8.0.14
 openapi-spec-validator==0.2.4
 PyYAML==3.13
 requests==2.20.1
